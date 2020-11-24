@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<archiveIndex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sa.dk/xmlns/diark/1.0" xsi:schemaLocation="http://www.sa.dk/xmlns/diark/1.0 ../Schemas/standard/archiveIndex.xsd">
+  <archiveInformationPackageID>AVID.SA.18001</archiveInformationPackageID>
+  <archivePeriodStart>1941-01-04</archivePeriodStart>
+  <archivePeriodEnd>1987-03-31</archivePeriodEnd>
+  <archiveInformationPacketType>false</archiveInformationPacketType>
+  <archiveCreatorList>
+    <creatorName>Miljøministeriets Vildtforvaltning</creatorName>
+    <creationPeriodStart>1941-01-04</creationPeriodStart>
+    <creationPeriodEnd>1987-03-31</creationPeriodEnd>
+  </archiveCreatorList>
+  <archiveType>true</archiveType>
+  <systemName>Den danske Vildtudbyttestatistik</systemName>
+  <systemPurpose>Statistikken har til formål at opsamle informationer om nedlagt vildt.</systemPurpose>
+  <systemContent>Den danske Vildtudbyttestatistik er en database, som indeholder oplysninger om nedlagt vildt i Danmark for hver jagtsæson fordelt på vildtarter og amter.
+
+Grunddata stammer fra de oplysninger om peronligt nedlagt vildt som alle jagttegnsløsere er forpligtet til at indsende efter jagtsæsonens afslutning. Disse oplysninger er indsamlet siden 1941. 
+
+Aggregerede data foreligger for perioden 1941-2000. For perioden 1941 til 1954 foreligger dog kun det totale udbytte af hver vildtart, men fra 1955 og frem er data endvidere delt op på amter (14 amter samt total). 
+
+Recordopbygning for aggregerede data for perioden 01.04.1941 til 31.03.2001:
+
+Felt nr.
+
+1. År (fx 1986 er jagtsæsonen 1986/87, dvs perioden 1.4.1986-31.3.1987)
+
+2. Amt
+
+3. Vildtart
+
+4. Antal (det samlede, korrigerede jagtudbytte af den pågældende vildtart)</systemContent>
+  <regionNum>false</regionNum>
+  <komNum>false</komNum>
+  <cprNum>false</cprNum>
+  <cvrNum>false</cvrNum>
+  <matrikNum>false</matrikNum>
+  <bbrNum>false</bbrNum>
+  <whoSygKod>false</whoSygKod>
+  <form>
+    <formVersion>2.2</formVersion>
+    <classList>
+      <formClass>38.10.15</formClass>
+      <formClassText>Jagt og vildt</formClassText>
+    </classList>
+  </form>
+  <containsDigitalDocuments>false</containsDigitalDocuments>   <containsGeodata>false</containsGeodata>   <containsResearchData>false</containsResearchData>   <researchSIP>false</researchSIP>   <documentsDisposal>false</documentsDisposal>   
+  <searchRelatedOtherRecords>false</searchRelatedOtherRecords>
+  <systemFileConcept>false</systemFileConcept>
+  <multipleDataCollection>false</multipleDataCollection>
+  <personalDataRestrictedInfo>false</personalDataRestrictedInfo>
+  <otherAccessTypeRestrictions>false</otherAccessTypeRestrictions>
+  <archiveApproval>SA</archiveApproval>
+</archiveIndex>

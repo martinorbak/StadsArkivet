@@ -1,0 +1,13 @@
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\bin\Debug\netcoreapp3.1\StadsArkivet.exe
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\bin\Debug\netcoreapp3.1\StadsArkivet.deps.json
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\bin\Debug\netcoreapp3.1\StadsArkivet.runtimeconfig.json
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\bin\Debug\netcoreapp3.1\StadsArkivet.runtimeconfig.dev.json
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\bin\Debug\netcoreapp3.1\StadsArkivet.dll
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\bin\Debug\netcoreapp3.1\StadsArkivet.pdb
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\obj\Debug\netcoreapp3.1\StadsArkivet.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\obj\Debug\netcoreapp3.1\StadsArkivet.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\obj\Debug\netcoreapp3.1\StadsArkivet.AssemblyInfo.cs
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\obj\Debug\netcoreapp3.1\StadsArkivet.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\obj\Debug\netcoreapp3.1\StadsArkivet.dll
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\obj\Debug\netcoreapp3.1\StadsArkivet.pdb
+C:\Users\Martin\source\repos\StadsArkivet\StadsArkivet\obj\Debug\netcoreapp3.1\StadsArkivet.genruntimeconfig.cache
