@@ -13,6 +13,7 @@ It will open a console window with build events and status in the end.
   
   
 **How code functions**
+```
 1 - The code will read the .xml file containing the indicies for database tables.
 2 - It finds the tables section in the file
 3 - Goes through each table and find column definition
@@ -22,3 +23,4 @@ It will open a console window with build events and status in the end.
 7 - Compare element's value's datatype with and data type definitions from dictionary
 8 - Set success to false if it find something that does not match
 9 - Show success status for each table in console output.
+```
